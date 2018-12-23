@@ -1,0 +1,5 @@
+futbol;22
+futbol sala;10
+basquet;10
+badminton;2
+voley playa;4
